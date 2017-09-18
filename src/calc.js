@@ -9,7 +9,7 @@
 'use strict'
 
 /**
- * Returns the sum of two numbers.
+ * Returns the sum of two numbers..
  *
  * @returns {number} The number 42.
  */
