@@ -17,7 +17,7 @@ function addNumbers () {
   let firstNumber = 12
   let secondNumber = 30
 
-  return (firstNumber+secondNumber)
+  return (firstNumber + secondNumber)
 }
 
 exports.addNumbers = addNumbers
